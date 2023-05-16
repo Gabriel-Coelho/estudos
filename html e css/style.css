@@ -1,0 +1,14 @@
+body {
+    background-color: #2284ae;
+    font-size: x-large;
+    color: black;
+    padding: 10px;
+}
+strong {
+    color: white;
+    border: 1px solid;
+    border-color: aliceblue;
+}
+h1 {
+    font-weight: bold;
+}
