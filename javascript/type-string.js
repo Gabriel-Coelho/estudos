@@ -6,4 +6,4 @@ const tique = "\u2705"
 const bvMinusculo = t2.toLowerCase
 
 
-console.log(t1.toLowerCase)
+console.log(t1+t2)
